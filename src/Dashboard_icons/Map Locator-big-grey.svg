@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.51" height="85" viewBox="0 0 63.51 85">
+  <g id="Map_Locator-big-grey" data-name="Map Locator-big-grey" transform="translate(2 2)">
+    <path id="Path_394" data-name="Path 394" d="M-1832.533,670.117c0,14.478-23.032,43.794-28.569,50.633a1.523,1.523,0,0,1-2.373,0c-5.537-6.839-28.568-36.155-28.568-50.633a29.777,29.777,0,0,1,29.755-29.8A29.777,29.777,0,0,1-1832.533,670.117Z" transform="translate(1892.043 -640.319)" fill="none" stroke="#4e4e4e" stroke-miterlimit="10" stroke-width="4"/>
+    <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(14.5 12.333)" fill="none" stroke="#4e4e4e" stroke-width="4">
+      <ellipse cx="15.5" cy="15" rx="15.5" ry="15" stroke="none"/>
+      <ellipse cx="15.5" cy="15" rx="13.5" ry="13" fill="none"/>
+    </g>
+  </g>
+</svg>

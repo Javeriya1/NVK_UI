@@ -1,0 +1,97 @@
+body{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  background-color: #F4F6FA;
+}
+.card{
+  width: auto;
+  height: 290px;
+  margin-bottom: 22px;
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: #fff;
+ 
+}
+
+.cardTitle{
+  text-align:center;
+  font-size: 22px;
+  color:#348fe2;
+  font-weight: 500;
+ 
+  }
+
+.icon{
+  height: 100px;
+ 
+}
+
+.image{
+  text-align: center;
+  padding-top: 10px;
+}
+.left{
+  text-align: left;
+}
+.right{
+  text-align: right;
+}
+.Text{
+  font-size: 20px;
+  margin-bottom: 0;
+  padding-top: 30px;
+  color:#348fe2;
+  font-weight: 500;
+ 
+ 
+}
+
+.Count{
+  font-size: 28px;
+  margin-bottom: 0;
+  color:#629C44;
+  font-weight: 500;
+ 
+
+}
+
+.row>.lastCardHeader{
+  position: absolute;
+  top:16px;
+  left:120px;
+  font-size: 25px;
+  color:#629C44;
+ 
+}
+
+.row>.lastCardText{
+  text-align: center;
+  color: #629C44;
+}
+
+.row>.lastCardEmail{
+   text-align: center;
+   color:black;
+}
+
+.card.normalCard:hover {
+  
+  background-color: #629C44;
+  cursor : pointer;
+  border-radius: 10px;
+  transform: 10s;
+  color:white;
+
+}
+
+.card.normalCard:hover .cardTitle {
+  
+  color:white;  
+}
+
+.card.normalCard:hover .Text{
+  color:white;
+}
+.card.normalCard:hover .Count{
+  color:white;
+}
+
